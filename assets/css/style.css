@@ -106,7 +106,15 @@ li {
 /*=================================
   Header styling starts here
 =================================*/
-
+header{
+  width: 100%;
+  display: inline-block;
+}
+h1{
+padding:30px;
+font-size: 30px;
+display: inline-block;
+}
 
 
 
