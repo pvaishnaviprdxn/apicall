@@ -126,7 +126,17 @@ display: inline-block;
 /*=================================
   main styling starts here
 =================================*/
-
+h1{
+  padding:30px;
+  font-size: 30px;
+  display: inline-block;
+}
+table{
+  border-collapse: collapse;
+}
+tr,td,th{
+  border: 1px solid;
+}
 
 
 
